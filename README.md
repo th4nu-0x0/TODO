@@ -1,2 +1,2 @@
 # TODO
-Javascript 1st Project
+This is the JS project i have done. 
